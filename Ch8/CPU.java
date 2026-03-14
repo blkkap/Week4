@@ -1,7 +1,5 @@
 //Project name: CPU java
-//Auhtor: J.Dovala
-//Date:13/07/21
-//Class:CSC110
+
 //Description: CPU class
 
 
