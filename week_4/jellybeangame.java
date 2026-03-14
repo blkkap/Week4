@@ -1,7 +1,5 @@
 //project name: Jelly bean game 
-//Author: J.Dovala
-//Date: 24/06/21
-//Class:CSC110
+
 //Description: makes user guess how many jelly beans 
 
 
