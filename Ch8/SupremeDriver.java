@@ -1,7 +1,7 @@
 //Project name: SupremeDriver java
-//Auhtor: J.Dovala
+
 //Date:13/07/21
-//Class:CSC110
+
 //Description: tester for GPU and CPU
 
 
