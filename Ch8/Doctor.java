@@ -1,7 +1,5 @@
 //Project name: Doctor java
-//Author: J.Dovala
-//Class:CSC110
-//Date: 13/07/21
+
 //Description: Doctor class
 
 
