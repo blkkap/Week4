@@ -1,7 +1,5 @@
 //Project name: loop concept
-//Author: J.Dov
-//Date 24/06/21
-//Class:CSC110
+
 //Description: Ask user for a value and prints out times table until user enter value to stop it 
 
 
