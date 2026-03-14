@@ -1,7 +1,5 @@
 //Project name: loop concept
-//Author: J.Dov
-//Date 25/06/21
-//Class:CSC110
+
 //Description: loop concepts
 
 
