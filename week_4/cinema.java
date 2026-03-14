@@ -1,7 +1,5 @@
 //Project name: loop concept
-//Author: J.Dov
-//Date 23/06/21
-//Class:CSC110
+
 //Description: Enhanced cinema loops until user stops it with value 
 
 
