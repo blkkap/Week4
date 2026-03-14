@@ -1,7 +1,5 @@
 //ProjectName: GreetingPanel
-//Author:J.Dovala
-//Class:CSC110
-//Date:30/06/21
+
 //Description: greeting frame
 
 
