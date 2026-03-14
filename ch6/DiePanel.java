@@ -1,7 +1,5 @@
 //Project name: Die panel
-//Author: J.Dovala
-//Date: 1/7/21
-//Class:CSC110
+
 //Description: Die panel
 
 
